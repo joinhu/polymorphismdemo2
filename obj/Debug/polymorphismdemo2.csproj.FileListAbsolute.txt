@@ -1,6 +1,0 @@
-c:\users\karthic\documents\visual studio 2015\Projects\polymorphismdemo2\bin\Debug\polymorphismdemo2.exe.config
-c:\users\karthic\documents\visual studio 2015\Projects\polymorphismdemo2\bin\Debug\polymorphismdemo2.exe
-c:\users\karthic\documents\visual studio 2015\Projects\polymorphismdemo2\bin\Debug\polymorphismdemo2.pdb
-c:\users\karthic\documents\visual studio 2015\Projects\polymorphismdemo2\obj\Debug\polymorphismdemo2.csprojResolveAssemblyReference.cache
-c:\users\karthic\documents\visual studio 2015\Projects\polymorphismdemo2\obj\Debug\polymorphismdemo2.exe
-c:\users\karthic\documents\visual studio 2015\Projects\polymorphismdemo2\obj\Debug\polymorphismdemo2.pdb
